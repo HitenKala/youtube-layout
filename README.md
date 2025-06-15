@@ -30,7 +30,7 @@ CSS3
 📦 How to Run
 Download or clone this repository.
 
-Open the index.html file in your browser.
+Open the youtube.html file in your browser.
 
 That’s it — explore the layout!
 
